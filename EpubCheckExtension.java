@@ -26,7 +26,6 @@ import com.adobe.epubcheck.util.XmlReportImpl;
 public class EpubCheckExtension extends DefaultStep
 {
   private WritablePipe result = null;
-  private WritablePipe report = null;
 
   public EpubCheckExtension(XProcRuntime runtime, XAtomicStep step)
   {
