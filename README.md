@@ -11,7 +11,7 @@ IDPF epubcheck extension for XML Calabash
 <xproc-config xmlns="http://xmlcalabash.com/ns/configuration"
   xmlns:tr="http://transpect.io">
 
-  <implementation type="tr:epubcheck" class-name="EpubCheckExtension"/>
+  <implementation type="tr:epubcheck" class-name="io.transpect.calabash.extensions.EpubCheckExtension"/>
 
 </xproc-config>
 ```
