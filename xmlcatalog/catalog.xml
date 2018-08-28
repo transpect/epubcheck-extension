@@ -2,5 +2,5 @@
 <catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
   
     <rewriteURI uriStartString="http://transpect.io/calabash-extensions/epubcheck-extension/" rewritePrefix="../"/>
-
+     
 </catalog>

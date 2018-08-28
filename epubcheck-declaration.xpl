@@ -5,7 +5,7 @@
   version="1.0">
   
   <p:documentation xmlns="http://www.w3.org/1999/xhtml">
-    Checks EPUB files with IPDF epubcheck.
+    Checks EPUB files with IDPF epubcheck.
   </p:documentation>
   
   <p:output port="result" sequence="false">
